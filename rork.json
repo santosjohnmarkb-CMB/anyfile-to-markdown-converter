@@ -1,0 +1,13 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "anything.md",
+      "path": "expo",
+      "framework": "react-native",
+      "settings": {
+        "displayName": "Anything to Markdown Converter"
+      }
+    }
+  ]
+}
